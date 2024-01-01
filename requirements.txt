@@ -2,6 +2,6 @@ streamlit==0.87.0
 torch==1.9.0
 transformers==4.10.2
 wordcloud==1.8.1
-whisper==0.1.0
+whisper==20231117
 matplotlib==3.4.3
 plotly==5.3.1
