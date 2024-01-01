@@ -1,7 +1,7 @@
-streamlit==0.87.0
-torch==1.9.0
-transformers==4.10.2
-wordcloud==1.8.1
-whisper==20231117
-matplotlib==3.4.3
-plotly==5.3.1
+streamlit==1.29.0
+torch==2.1.2
+transformers==4.36.2
+wordcloud==1.9.3
+openai-whisper==20231117
+matplotlib==3.8.2
+plotly==5.18.0
